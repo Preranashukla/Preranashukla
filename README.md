@@ -4,12 +4,12 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Prerana Shukla</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=SeniorFronendEnginer" style="margin-left: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Senior%20Frontend%20Engineer" style="margin-left: 10px;" />
 </div>
 
 # 👨‍�� About Me
 
-Software Engineer with 8+ years of experience delivering scalable, secure, and consumer-facing web applications. Proven expertise in React, Next.js, and Node.js/NestJS, with additional experience in A
+Software Engineer with 8+ years of experience delivering scalable, secure, and consumer-facing web applications. Proven expertise in React, Next.js, and Node.js/NestJS, with additional experience in A (Enhanced for clarity and impact)
 
 # 🌱 Currently Learning
 
